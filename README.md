@@ -20,5 +20,5 @@ Includes a **progress bar** and **sound effects** for fun gameplay!
 ##  Installation
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/python-guessing-game.git
+   git clone https://github.com/adegoroye-build/python-guessing-game.git
    cd python-guessing-game
